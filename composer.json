@@ -1,0 +1,5 @@
+{
+    "name": "roeldev/phpcs-ruleset",
+    "description": "My slightly modified PSR-2 coding standard for PHPCS.",
+    "license": "MIT"
+}
